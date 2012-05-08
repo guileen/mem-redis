@@ -3,7 +3,7 @@ mem-redis
 
 High performance cache layer. `mem[key] || redis.get(key)`
 
-
+use [node-cache](https://github.com/tcs-de/nodecache)
 
 NOTE: be careful about state sync
 ----
